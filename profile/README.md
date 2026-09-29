@@ -1,14 +1,6 @@
 # Minecraft Skin Changer – Customize Your Character Instantly
 
-<p align="center">
-  <img src="https://www.planetminecraft.com/images/studio/pmcskin3d/pmcskin3d_logo_lrg.png" alt="Minecraft Skin Changer"/>
-</p>
-
-<p align="center">
-  <a href="https://minecraft-skin-changer.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Minecraft_Skin_Changer-blue?style=for-the-badge&logo=github" alt="Get Minecraft Skin Changer"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://xaviszalankailader.github.io/.github/Minecraft-Skin-Changer)
 
 ---
 
